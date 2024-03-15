@@ -1,0 +1,13 @@
+# LeetCode  SQL 50
+### Overview
+This repository contains a list of 50 essential SQL questions sourced from LeetCode, designed to help you practice and master SQL query writing. Each question is categorized based on its difficulty level.
+
+| S. No. | Question No. | Question Link | Level | 
+| ------ | ------------ | ------------- | ----- |
+| 1      | 1757         | [Recyclable and low fat products](https://leetcode.com/problems/recyclable-and-low-fat-products/?envType=study-plan-v2&envId=top-sql-50) | Easy  |
+| 2      | 1148         | [Article Views I](https://leetcode.com/problems/article-views-i/description/?envType=study-plan-v2&envId=top-sql-50) | Easy  |
+
+
+
+
+
