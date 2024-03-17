@@ -6,6 +6,8 @@ This repository contains a list of 50 essential SQL questions sourced from LeetC
 | ------ | ------------ | ------------- | ----- |
 | 1      | 1757         | [Recyclable and low fat products](https://leetcode.com/problems/recyclable-and-low-fat-products/?envType=study-plan-v2&envId=top-sql-50) | Easy  |
 | 2      | 1148         | [Article Views I](https://leetcode.com/problems/article-views-i/description/?envType=study-plan-v2&envId=top-sql-50) | Easy  |
+| 3      | 1683         | [Invalid Tweets ](https://leetcode.com/problems/invalid-tweets/description/?envType=study-plan-v2&envId=top-sql-50) | Easy  |
+
 
 
 
