@@ -9,6 +9,8 @@ This repository contains a list of 50 essential SQL questions sourced from LeetC
 | 3      | 1683         | [Invalid Tweets ](https://leetcode.com/problems/invalid-tweets/description/?envType=study-plan-v2&envId=top-sql-50) | Easy  |
 | 4      | 584         | [find customer referee ](https://leetcode.com/problems/find-customer-referee/description/?envType=study-plan-v2&envId=top-sql-50) | Easy  |
 | 5      | 595         | [Big Countries](https://leetcode.com/problems/big-countries/description/?envType=study-plan-v2&envId=top-sql-50) | Easy  |
+| 6      | 1280         | [ Students and Examinations](https://leetcode.com/problems/students-and-examinations/description/?envType=study-plan-v2&envId=top-sql-50) | Easy  |
+
 
 
 
